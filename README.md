@@ -10,7 +10,6 @@ $ cat about_me.txt
 ```
 > 18 years in tech. Started writing Java & Scala, then one day I discovered
 > infrastructure and thought: "Why write bugs in code when I can write them in Terraform?"
->
 
 ```bash
 $ ls ~/skills/
@@ -44,7 +43,7 @@ $ echo $LOOKING_FOR
 >
 > 💬 Ask me about AWS, Terraform, Kubernetes, or how to survive on-call rotations
 >
-> 📫 [https://www.linkedin.com/in/michel-martineau-72383b150/]
+> 📫 [LinkedIn](https://www.linkedin.com/in/michel-martineau-72383b150/)
 
 ```bash
 $ exit
