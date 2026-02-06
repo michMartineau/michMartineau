@@ -1,16 +1,53 @@
-## Hi there 👋
+# 💻 Terminal
 
-<!--
-**michMartineau/michMartineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+```
+> michel — Cloud Architect / SRE / DevOps | Loire-Atlantique, France 🇫🇷
 
-Here are some ideas to get you started:
+```bash
+$ cat about_me.txt
+```
+> 18 years in tech. Started writing Java & Scala, then one day I discovered
+> infrastructure and thought: "Why write bugs in code when I can write them in Terraform?"
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ ls ~/skills/
+```
+
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| ☁️ AWS | `████████████████████░` | Expert |
+| 🏗️ Terraform | `████████████████████░` | Expert |
+| ☸️ Kubernetes | `███████████████████░░` | Advanced |
+| ☕ Java / Scala | `████████████████████░` | Veteran (11yr of StackOverflow) |
+| 🐹 Go | `██████░░░░░░░░░░░░░░░` | Learning (the mascot sold me) |
+
+```bash
+$ cat ~/.current_quest
+```
+> 🎯 Preparing for **AWS Solutions Architect Professional** certification
+>
+> 📚 Learning **Go** — because apparently I collect languages
+
+```bash
+$ cat ~/fun_facts.txt
+```
+> 🛼 I roller skate. Yes, a Cloud Architect on wheels.
+>
+
+```bash
+$ echo $LOOKING_FOR
+```
+> 👯 Cloud/DevOps collaborations, development, and consulting
+>
+> 💬 Ask me about AWS, Terraform, Kubernetes, or how to survive on-call rotations
+>
+> 📫 [https://www.linkedin.com/in/michel-martineau-72383b150/]
+
+```bash
+$ exit
+logout
+Connection to github.com closed. Have a nice day! 👋
+```
