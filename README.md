@@ -6,12 +6,6 @@ $ whoami
 > michel — Cloud Architect / SRE / DevOps | Loire-Atlantique, France 🇫🇷
 
 ```bash
-$ cat about_me.txt
-```
-> 18 years in tech. Started writing Java & Scala, then one day I discovered
-> infrastructure and thought: "Why write bugs in code when I can write them in Terraform?"
-
-```bash
 $ ls ~/skills/
 ```
 
@@ -20,7 +14,7 @@ $ ls ~/skills/
 | ☁️ AWS | `████████████████████░` | Expert |
 | 🏗️ Terraform | `████████████████████░` | Expert |
 | ☸️ Kubernetes | `███████████████████░░` | Advanced |
-| ☕ Java / Scala | `████████████████████░` | Veteran (11yr of StackOverflow) |
+| ☕ Java / Scala | `████████████████████░` | Veteran |
 | 🐹 Go | `██████░░░░░░░░░░░░░░░` | Learning (the mascot sold me) |
 
 ```bash
@@ -29,12 +23,6 @@ $ cat ~/.current_quest
 > 🎯 Preparing for **AWS Solutions Architect Professional** certification
 >
 > 📚 Learning **Go** — because apparently I collect languages
-
-```bash
-$ cat ~/fun_facts.txt
-```
-> 🛼 I roller skate. Yes, a Cloud Architect on wheels.
->
 
 ```bash
 $ echo $LOOKING_FOR
